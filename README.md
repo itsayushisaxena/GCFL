@@ -7,7 +7,7 @@
 ```
     pip3 install snscrape
 ```
-- [] isghyr
+- [ ] isghyr
  
  
  
