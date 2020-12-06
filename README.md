@@ -3,7 +3,11 @@
  
 [website](https://www.hackerrank.com)
  
- 
+ o install both of these:
+```
+    pip3 install snscrape
+```
+
  
  
  
