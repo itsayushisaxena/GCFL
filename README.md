@@ -3,6 +3,4 @@
  
 [website](https://www.hackerrank.com)
  
-
- 
 -**ayushisaxenamtr@gmail.com**
